@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Hi, I'm Max! I like music, bikes, and machine learning, too.
+subtitle: #  Hi, I'm Max! I like music, bikes, and machine learning, too.
 
 profile:
   align: right
