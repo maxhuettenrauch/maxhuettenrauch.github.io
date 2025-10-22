@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my personal homepage. I'm a machine learning researcher interested in reinforcement learning, optimization, and deep learning in general. 
+Welcome to my personal homepage. I'm a machine learning researcher interested in reinforcement learning, optimization, and deep learning in general.
 
 I hold a Ph.D. from the Karlsruhe Institute of Technolgy (KIT) in Computer Science and an M.Sc. in Electrical Engineering and Information Technology (ETiT) from the Technical University of Darmstadt (TU Darmstadt).
 During my Ph.D., I focussed on reinforcement learning and my [thesis](/assets/pdf/diss_mh.pdf) is concerned with state representation in homogeneous swarms, as well as exploration of high dimensional action spaces in episode-based reinforcement learning.
